@@ -12,7 +12,7 @@ public class UsarEmpleado {
         emp1.setCurp("GABJ121212HDFTR2");
         
         
-        System.out.println("info"+emp1);
+        System.out.println("info" +emp1);
         
     }   
 }
